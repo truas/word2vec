@@ -77,6 +77,12 @@ use on machine learning tasks as document classification.
           of relative path.
           Default = False
 
+### References
+If you use this repository, please make sure to cite the following works.
+
+- _Multi-sense embeddings through a word sense disambiguation process_ - https://doi.org/10.1016/j.eswa.2019.06.026
+- _Enhanced word embeddings using multi-semantic representation through lexical chains_ - https://doi.org/10.1016/j.ins.2020.04.048},
+
         
 ### Changelog 
 
